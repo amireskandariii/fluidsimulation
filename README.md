@@ -1,4 +1,4 @@
-# 2D Fluid Simulation with VisPy
+# 2D Fluid Simulation using Navier-Stokes Equations
 
 This project implements a real-time fluid simulation using the Navier-Stokes equations for incompressible flow in two dimensions. The simulation visualizes the movement of fluid within a box, showing how it interacts with the boundaries and itself over time.
 
@@ -6,7 +6,8 @@ The simulation uses the **Stable Fluids** method by Jos Stam for efficient and s
 
 Below is a preview of the fluid simulation in action:
 
-![Fluid Simulation](fluid_simulation.mov)
+https://github.com/user-attachments/assets/a132e1f9-49d4-4ea8-83f1-9b177b779850
+
 
 ## Table of Contents
 - [Overview](#overview)
