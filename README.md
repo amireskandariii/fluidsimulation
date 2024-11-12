@@ -7,7 +7,7 @@ The simulation uses the **Stable Fluids** method by Jos Stam for efficient and s
 Below is a preview of the fluid simulation in action:
 (In this simulation: `N = 200, dt=10, viscosity = 0.001`)
 
-https://github.com/user-attachments/assets/a132e1f9-49d4-4ea8-83f1-9b177b779850
+![fluid_simulation](https://github.com/user-attachments/assets/7d8bdf26-8074-48f8-bf8e-4485b0889a90)
 
 
 ## Table of Contents
