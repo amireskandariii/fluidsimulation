@@ -5,6 +5,7 @@ This project implements a real-time fluid simulation using the Navier-Stokes equ
 The simulation uses the **Stable Fluids** method by Jos Stam for efficient and stable numerical integration. The visualization is handled using **VisPy**, which leverages OpenGL for high-performance rendering.
 
 Below is a preview of the fluid simulation in action:
+(In this simulation: `N = 200, dt=10, viscosity = 0.001`)
 
 https://github.com/user-attachments/assets/a132e1f9-49d4-4ea8-83f1-9b177b779850
 
